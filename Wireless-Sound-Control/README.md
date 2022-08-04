@@ -5,7 +5,7 @@ Gestures. Used libraries like CV2 (OpenCV) and Mediapipe.The aim of this project
 gestures powerfully and will control the volume level.
 
 
-![image](https://user-images.githubusercontent.com/86593289/128878239-67a81275-d3b9-44cd-8ccf-64d75eb5fa89.png)
+![image](https://bitmesra-my.sharepoint.com/:i:/g/personal/btech10539_19_bitmesra_ac_in/EfYvG3_DObhIhp1rwsoZ1RcBgXhaf8DfzFU5B56iEMEhkw?e=BxT5M1)
 
 
 
